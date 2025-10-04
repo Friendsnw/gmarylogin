@@ -1,0 +1,22 @@
+prefix: "&a&lMonServeur &7» "
+kick_after_seconds: 60
+
+title:
+  login_main: "&aMonServeur"
+  login_subtitle_success: "&6connexion réussie!"
+  join_main: "&cVous devez être connecté!"
+
+messages:
+  reminder_register: "&ePour vous inscrire, veuillez utiliser : /register <passe> <passe>"
+  reminder_login: "&eFor login please use: /login <passe>"
+  must_login: "&cCette commande est interdite"
+  kicked_for_no_password: "&cJe ne me suis pas connecté à temps !"
+  already_registered: "&cVous êtes déjà connecté!"
+  register_success: "&aVous êtes inscrit avec succès!"
+  wrong_password: "&cMot de passe incorrect!"
+  already_logged_in: "&cVous êtes déjà connecté!"
+  login_success: "&aconnexion réussie au serveur !"
+
+bossbar_text: "&cVous devez être connecté! (%remaining_seconds% secondes restantes)"
+
+# Traduit par teknolojitamirci avec Google Traduction. Lien Git-Hub : https://github.com/Friendsnw/gmarylogin/tree/8b9d7aeb430f2d5aa9652e9ed1f5c186e19b7165

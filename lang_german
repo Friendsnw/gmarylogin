@@ -1,0 +1,22 @@
+prefix: "&a&lMeinServer &7» "
+kick_after_seconds: 60
+
+title:
+  login_main: "&aMeinServer"
+  login_subtitle_success: "&6Erfolgreiche Anmeldung!"
+  join_main: "&cSie müssen angemeldet sein!"
+
+messages:
+  reminder_register: "&eZur Registrierung verwenden Sie bitte: /register <Passwort> <Passwort>"
+  reminder_login: "&eZum Einloggen bitte verwenden: /login <Passwort>"
+  must_login: "&cDieser Befehl ist verboten."
+  kicked_for_no_password: "&cSie haben nicht rechtzeitig eingecheckt!"
+  already_registered: "&cSie sind bereits eingeloggt!"
+  register_success: "&cSie sind bereits registriert!"
+  wrong_password: "&cFalsches Passwort!"
+  already_logged_in: "&cSie sind bereits angemeldet!"
+  login_success: "&aErfolgreiche Anmeldung am Server!+"
+
+bossbar_text: "&cSie müssen sich auf dem Server anmelden! (%remaining_seconds% Sekunden verbleibend)"
+
+# Übersetzung von: teknolojitamirci in der: www.deepl.com/tr/translator

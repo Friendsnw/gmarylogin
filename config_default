@@ -1,0 +1,20 @@
+prefix: "&aɢᴍᴀʀʏɴᴡ &7» "
+kick_after_seconds: 60
+
+title:
+  login_main: "&aGmaryNetwork"
+  login_subtitle_success: "&6Başarıyla Giriş Yaptın!"
+  join_main: "&cGiriş yapmalısınız!"
+
+messages:
+  reminder_register: "&eKayıt olmak için: /register <şifre> <şifre>"
+  reminder_login: "&eGiriş yapmak için: /login <şifre>"
+  must_login: "&cŞifre girmeden bu komutu kullanamazsınız."
+  kicked_for_no_password: "&cŞifre girmediğiniz için atıldınız."
+  already_registered: "&cZaten kayıtlısınız!"
+  register_success: "&aBaşarıyla kayıt oldunuz!"
+  wrong_password: "&cŞifre yanlış!"
+  already_logged_in: "&cZaten giriş yaptınız!"
+  login_success: "&aGiriş başarılı!"
+
+bossbar_text: "&cGiriş yapmalısınız! (%remaining_seconds% saniye kaldı)"

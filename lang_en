@@ -1,0 +1,20 @@
+prefix: "&a&lMyServer &7» "
+kick_after_seconds: 60
+
+title:
+  login_main: "&aMyServer"
+  login_subtitle_success: "&6successfully login!"
+  join_main: "&cYou must be login!"
+
+messages:
+  reminder_register: "&eFor register please use: /register <sifre> <şifre>"
+  reminder_login: "&eFor login please use: /login <şifre>"
+  must_login: "&cThis command is forbidden"
+  kicked_for_no_password: "&cYou do not login"
+  already_registered: "&cYou allready registed!"
+  register_success: "&aYou successfully registed!"
+  wrong_password: "&cPassword wrong!"
+  already_logged_in: "&cYou already logged!"
+  login_success: "&asuccessfully login to server!!"
+
+bossbar_text: "&cYou must be login! (%remaining_seconds% seconds left)"
